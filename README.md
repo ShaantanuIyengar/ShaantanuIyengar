@@ -1,13 +1,29 @@
-### Hi there, I'm Shaantanu Iyengar 
+## Hi, I'm Shaantanu Iyengar 👋
 
-I'm an Electronics Engineering with Space Science and Technology student, **passionate about AI/ML & Embedded Systems.**
+I’m an **Electronics Engineering with Space Science & Technology** student, passionate about **AI/ML, Embedded Systems, and intelligent hardware–software integration**.
 
-My goal is to build intelligent, efficient systems by bridging the gap between hardware and software. My work experience at Leonardo's Electronic Warfare Site and my University / personal projects have given me experience in:
+My goal is to design **efficient, intelligent systems** by bridging the gap between computation and physical hardware.  
+Through my experience at **Leonardo’s Electronic Warfare Site** and multiple university and personal projects, I’ve developed strong skills in:
 
-* ** AI & Machine Learning:** (PyTorch, LSTM Autoencoders, Anomaly Detection)
-* ** Hardware & FPGAs:** (SystemVerilog, Microprocessor Design, ALU/VGA Controllers)
-* ** Embedded Systems:** (Arduino, C++, Sensor Integration, Hardware-Software Interfacing)
-* ** System Debugging & Integration:** (Hardware-software co-verification, Performance optimization, **Logical fault-finding**)
-* ** PCB & CAD Design:** (OrCAD, KiCAD, AutoCAD; multi-layer PCB schematics, layout design, and 3D mechanical modelling)
-* ** Simulation & Data Analysis:** (MATLAB; algorithm development, data modelling, system simulation)
+### 🔹 AI & Machine Learning  
+- **PyTorch, LSTM Autoencoders, Anomaly Detection**  
+- Model development, training pipelines, data preprocessing  
 
+### 🔹 Hardware & FPGAs  
+- **SystemVerilog, Microprocessor Design**  
+- ALU design, VGA controllers, digital logic implementation  
+
+### 🔹 Embedded Systems  
+- **Arduino, C++, Sensor Integration**  
+- Real-time hardware–software interfacing  
+
+### 🔹 System Debugging & Integration  
+- Hardware–software co-verification  
+- Performance optimisation, **logical fault-finding**  
+
+### 🔹 PCB & CAD Design  
+- **OrCAD, KiCad, AutoCAD**  
+- Multi-layer PCB schematics, layout design, 3D mechanical modelling  
+
+### 🔹 Simulation & Data Analysis  
+- **MATLAB** for algorithm development, modelling, and system simulation

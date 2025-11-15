@@ -8,4 +8,6 @@ My goal is to build intelligent, efficient systems by bridging the gap between h
 * ** Hardware & FPGAs:** (SystemVerilog, Microprocessor Design, ALU/VGA Controllers)
 * ** Embedded Systems:** (Arduino, C++, Sensor Integration, Hardware-Software Interfacing)
 * ** System Debugging & Integration:** (Hardware-software co-verification, Performance optimization, **Logical fault-finding**)
+* ** PCB & CAD Design:** (OrCAD, KiCAD, AutoCAD; multi-layer PCB schematics, layout design, and 3D mechanical modelling)
+* ** Simulation & Data Analysis:** (MATLAB; algorithm development, data modelling, system simulation)
 

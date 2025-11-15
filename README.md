@@ -2,7 +2,7 @@
 
 I'm an Electronics Engineering with Space Science and Technology student, **passionate about AI/ML & Embedded Systems.**
 
-My goal is to build intelligent, efficient systems by bridging the gap between hardware and software. My work experience at Leonardo's Electronic Warfare Site and my personal projects have given me experience in:
+My goal is to build intelligent, efficient systems by bridging the gap between hardware and software. My work experience at Leonardo's Electronic Warfare Site and my University / personal projects have given me experience in:
 
 * ** AI & Machine Learning:** (PyTorch, LSTM Autoencoders, Anomaly Detection)
 * ** Hardware & FPGAs:** (SystemVerilog, Microprocessor Design, ALU/VGA Controllers)

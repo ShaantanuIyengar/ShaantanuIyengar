@@ -13,7 +13,7 @@ My goal is to build intelligent, efficient systems by bridging the gap between h
 
 ### 🚀 My Projects
 
-* **🛰️ [AI-Based Satellite Anomaly Detector](https://github.com/ShaantanuIyengar/satellite-anomaly-detector)** *(Currently Building)*
+* **🛰️ [AI-Based Satellite Anomaly Detector]([https://github.com/ShaantanuIyengar/satellite-anomaly-detector](https://github.com/ShaantanuIyengar/-AI-Based-Satellite-Anomaly-Detector-))** *(Currently Building)*
     * Developing a Python-based AI to detect thermal/electrical anomalies in real-time satellite telemetry (from NASA's open datasets).
     * Training an LSTM autoencoder in PyTorch.
     * **Implementing fault-detection logic** to handle noisy or missing telemetry data streams.

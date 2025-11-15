@@ -27,7 +27,7 @@ My goal is to build intelligent, efficient systems by bridging the gap between h
 * **📡 [180-Degree Ultrasonic Radar System](https://github.com/ShaantanuIyengar/arduino-radar-system)**
     * Engineered a radar system using an Arduino and ultrasonic sensor.
     * Developed C++ code for hardware-software interfacing.
-    * **Diagnosed and calibrated** sensor offset to improve measurement precision from $\pm$10 cm to $\pm$6 cm, **addressing errors caused by signal reflections.**
+    * **Diagnosed and calibrated** sensor offset to improve measurement precision from +- 10cm to +- 6cm cm, **addressing errors caused by signal reflections.**
 
 ---
 

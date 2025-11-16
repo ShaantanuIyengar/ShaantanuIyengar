@@ -1,7 +1,7 @@
 ## Hi, I'm Shaantanu Iyengar 👋
 I’m an **Electronics Engineering with Space Science & Technology** student, passionate about **AI/ML, Embedded Systems, and intelligent hardware–software integration**. My goal is to design **efficient, intelligent systems** by bridging the gap between computation and physical hardware. Through my experience at **Leonardo’s Electronic Warfare Site** and university/personal projects, I’ve developed strong skills in:
 ### 🔹 AI & Machine Learning  
-- **PyTorch, Anomaly Detection**  
+- **PyTorch**  
 - Model development, training pipelines
 ### 🔹 Hardware & FPGAs  
 - **SystemVerilog, Microprocessor Design**  

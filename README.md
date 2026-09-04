@@ -2,7 +2,7 @@
 I’m an **Electronics Engineering with Space Science & Technology** student, passionate about **AI/ML, Embedded Systems, and intelligent hardware–software integration**. My goal is to design **efficient, intelligent systems** by bridging the gap between computation and physical hardware. Through my internship at **Leonardo Aerospace & Defence** and university/personal projects, I’ve developed strong skills in:
 
 ### 🔹 Programming & HDL
-- **MATLAB/Simulink, HDL/VHDL, Python **  
+- **MATLAB/Simulink, HDL/VHDL, Python**  
 - ALU design, VGA controllers, System Verilog/Vivado , Modelling
 ### 🔹 Embedded Systems  
 - **Arduino, C++, Sensor Integration**  
